@@ -3,10 +3,6 @@
 ## DATASETS
 https://www.kaggle.com/c/3136/download-all
 
-## REFERENCE
-はじめてのKaggle[タイタニック編]
-- https://qiita.com/ejama/items/32d31fcc5e350ec5ea5f
-
 ## RESULT
 | APPROACH  | Score |
 | --------- | ----- |
