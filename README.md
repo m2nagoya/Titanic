@@ -1,7 +1,8 @@
 # Kaggle Titanic Challenge
 
 ## DATASETS
-https://www.kaggle.com/c/3136/download-all
+kaggle link [ https://www.kaggle.com/c/titanic ]  
+DownLoad >> [ https://www.kaggle.com/c/3136/download-all ]  
 
 ## RESULT
 | APPROACH             | Score              | Cost | Gamma |
