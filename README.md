@@ -4,8 +4,8 @@
 https://www.kaggle.com/c/3136/download-all
 
 ## RESULT
-| METHOD | Score |
-| ---- | ----|
+| APPROACH  | Score |
+| --------- | ----- |
 | Liner SVC | 0.8097014925373134 |
 
 ## REFERENCE
