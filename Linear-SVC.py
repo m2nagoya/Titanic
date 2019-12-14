@@ -8,8 +8,8 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 
 ## CSV読み込み
-train = pd.read_csv("./titanic/train.csv")
-test  = pd.read_csv("./titanic/test.csv")
+train = pd.read_csv("titanic/train.csv")
+test  = pd.read_csv("titanic/test.csv")
 
 ### セル表示
 # train ## 全体
