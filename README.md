@@ -4,9 +4,9 @@
 https://www.kaggle.com/c/3136/download-all
 
 ## RESULT
-| APPROACH  | Score |
-| --------- | ----- |
-| SVM       | 0.8097014925373134 |
+| APPROACH         | Score              |
+| ---------------- | ------------------ |
+| SVM (Linear-SVC) | 0.8097014925373134 |
 
 ## REFERENCE
 - はじめてのKaggle [タイタニック編]  
