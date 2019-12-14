@@ -6,7 +6,7 @@ https://www.kaggle.com/c/3136/download-all
 ## RESULT
 | APPROACH             | Score              | Cost | Gamma |
 | -------------------- | ------------------ | ---- | ----- |
-| SVM (Linear-SVC)     | 0.8097014925373134 |  \-  |  \-   |
+| SVM (Linear-SVC)     | 0.8097014925373134 |   \- |   \-  |
 | SVM (Non-Linear-SVC) | 0.8246268656716418 | 100  | 0.01  |
 
 Best parameters: {'C': 100, 'gamma': 0.01}
