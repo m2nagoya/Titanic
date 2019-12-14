@@ -37,8 +37,14 @@ y = pd.DataFrame({'Survived':train['Survived']})
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=None)
 
 ### 学習
-model = SVC(kernel='linear', random_state=None,C=0.1)
-model.fit(X_train, y_train)
-
-### 性能評価
-model.score(X_test, y_test)
+best_score = 0
+for gamma in [0.001, 0.01, 0.1, 1, 10, 100]:
+    for C in [0.001, 0.01, 0.1, 1, 10, 100]:
+        svm = SVC(gamma=gamma, C=C)
+        svm.fit(X_train, y_train)
+        score = svm.score(X_test, y_test)
+        if score > best_score:
+            best_score = score
+            best_parameters = {'C':C, 'gamma':gamma}
+print("Best score: " + str(best_score))
+print("Best parameters: " + str(best_parameters))
