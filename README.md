@@ -3,6 +3,11 @@
 ## DATASETS
 https://www.kaggle.com/c/3136/download-all
 
+## RESULT
+| METHOD | Score |
+| ---- | ----|
+| Liner SVC | 0.8097014925373134 |
+
 ## REFERENCE
 - はじめてのKaggle [タイタニック編]  
 [ https://qiita.com/ejama/items/32d31fcc5e350ec5ea5f ]
