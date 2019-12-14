@@ -1,23 +1,12 @@
 # Kaggle Titanic Challenge
-<<<<<<< HEAD
-<<<<<<< HEAD
-Anybody can do it ! Deep Learning Tools !
-=======
->>>>>>> muto
-=======
->>>>>>> muto
 
 ## DATASETS
 https://www.kaggle.com/c/3136/download-all
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 ## REFERENCE
 はじめてのKaggle[タイタニック編]
 - https://qiita.com/ejama/items/32d31fcc5e350ec5ea5f
-=======
-=======
->>>>>>> muto
+
 ## RESULT
 | APPROACH  | Score |
 | --------- | ----- |
@@ -30,10 +19,6 @@ https://www.kaggle.com/c/3136/download-all
 [ https://qiita.com/pappapa/items/ebe0c1a0d518cc6ee7bc ]
 - Pandasでデータ概観  
 [ https://qiita.com/0NE_shoT_/items/bf700662b2c36aee0f8e ]
-<<<<<<< HEAD
->>>>>>> muto
-=======
->>>>>>> muto
 
 ## LICENCE
 This software is released under the MIT License, see LICENSE.
