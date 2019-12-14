@@ -1,5 +1,4 @@
 # Kaggle Titanic Challenge
-Anybody can do it ! Deep Learning Tools !
 
 ## DATASETS
 https://www.kaggle.com/c/3136/download-all
