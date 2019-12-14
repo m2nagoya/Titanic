@@ -6,7 +6,7 @@ https://www.kaggle.com/c/3136/download-all
 ## RESULT
 | APPROACH  | Score |
 | --------- | ----- |
-| Liner SVC | 0.8097014925373134 |
+| SVM       | 0.8097014925373134 |
 
 ## REFERENCE
 - はじめてのKaggle [タイタニック編]  
@@ -15,6 +15,8 @@ https://www.kaggle.com/c/3136/download-all
 [ https://qiita.com/pappapa/items/ebe0c1a0d518cc6ee7bc ]
 - Pandasでデータ概観  
 [ https://qiita.com/0NE_shoT_/items/bf700662b2c36aee0f8e ]
+- Kaggle: Titanic にチャレンジ
+[ https://qiita.com/nyantacos/items/629052ba47301c168408 ]
 
 ## LICENCE
 This software is released under the MIT License, see LICENSE.
