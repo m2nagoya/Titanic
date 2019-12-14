@@ -42,16 +42,3 @@ model.fit(X_train, y_train)
 
 ### 性能評価
 model.score(X_test, y_test)
-
-### テスト
-mean = np.mean(test['Age'])
-test['Age'] = test['Age'].fillna(mean)
-test['Sex'] = test['Sex'].str.replace('female', '2')
-test['Sex'] = test['Sex'].str.replace('male', '1')
-Xtest = pd.DataFrame({'Pclass':test['Pclass'], 'Sex':test['Sex'], 'Age':test['Age']})
-model.predict(Xtest)
-
-### Kaggle用にデータ整形
-submitPre = pd.DataFrame({'PassengerId':test['PassengerId'], 'Survived':model.predict(Xtest)})
-### CSV出力
-submitPre.to_csv("gender_submission.csv",index=False)
