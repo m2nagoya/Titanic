@@ -10,6 +10,12 @@ DownLoad >> [ https://www.kaggle.com/c/3136/download-all ]
 | SVM (Linear-SVC)     | 0.8097014925373134 |  \-  |  \-   |
 | SVM (Non-Linear-SVC) | 0.8246268656716418 | 100  | 0.01  |
 
+## USAGE
+```
+python3 Non-Linear-SVC.py
+python3 Linear-SVC.py
+```
+
 ## REFERENCE
 - はじめてのKaggle [タイタニック編]  
 [ https://qiita.com/ejama/items/32d31fcc5e350ec5ea5f ]
