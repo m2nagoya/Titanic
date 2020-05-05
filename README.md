@@ -30,4 +30,4 @@ python3 Linear-SVC.py
 This software is released under the MIT License, see LICENSE.
 
 ## AUTHOR
-[debunagoya] ( https://github.com/debunagoya )
+[m2nagoya] ( https://github.com/m2nagoya )
